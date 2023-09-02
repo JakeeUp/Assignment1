@@ -1,0 +1,20 @@
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\bin\Debug\grading.exe.config
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\bin\Debug\grading.exe
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\bin\Debug\grading.pdb
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\obj\Debug\grading.csprojResolveAssemblyReference.cache
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\obj\Debug\grading.frmGrading.resources
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\obj\Debug\grading.Properties.Resources.resources
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\obj\Debug\grading.csproj.GenerateResource.Cache
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\obj\Debug\grading.exe
+c:\users\ongkiko\documents\visual studio 2015\Projects\grading\grading\obj\Debug\grading.pdb
+C:\Fall2023\Object-Oriented-Programming\grading\bin\Debug\grading.exe.config
+C:\Fall2023\Object-Oriented-Programming\grading\bin\Debug\grading.exe
+C:\Fall2023\Object-Oriented-Programming\grading\bin\Debug\grading.pdb
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.csproj.AssemblyReference.cache
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.csproj.SuggestedBindingRedirects.cache
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.frmGrading.resources
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.Properties.Resources.resources
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.csproj.GenerateResource.cache
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.csproj.CoreCompileInputs.cache
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.exe
+C:\Fall2023\Object-Oriented-Programming\grading\obj\Debug\grading.pdb
